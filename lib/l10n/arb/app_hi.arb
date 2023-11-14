@@ -1,0 +1,11 @@
+{
+  "@@locale": "hi",
+  "appTitle": "QuantoMail",
+  "@appTitle": {
+    "description": "App Title"
+  },
+  "appSubTitle": "ओपनसोर्स और शक्तिशाली ईमेल क्लाइंट",
+  "@appSubTitle": {
+    "description": "App Sub Title"
+  }
+}
