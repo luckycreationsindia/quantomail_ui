@@ -7,5 +7,25 @@
   "appSubTitle": "ओपनसोर्स और शक्तिशाली ईमेल क्लाइंट",
   "@appSubTitle": {
     "description": "App Sub Title"
+  },
+  "general": "सामान्य",
+  "@general": {
+    "description": "General"
+  },
+  "inbox": "इनबॉक्स",
+  "@inbox": {
+    "description": "Inbox"
+  },
+  "sent": "भेजा",
+  "@sent": {
+    "description": "Sent"
+  },
+  "draft": "मसौदा",
+  "@draft": {
+    "description": "Draft"
+  },
+  "trash": "कचरा",
+  "@trash": {
+    "description": "Trash"
   }
 }

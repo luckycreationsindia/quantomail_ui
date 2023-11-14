@@ -7,5 +7,25 @@
   "appSubTitle": "Opensource and Powerful Email Client",
   "@appSubTitle": {
     "description": "App Sub Title"
+  },
+  "general": "General",
+  "@general": {
+    "description": "General"
+  },
+  "inbox": "Inbox",
+  "@inbox": {
+    "description": "Inbox"
+  },
+  "sent": "Sent",
+  "@sent": {
+    "description": "Sent"
+  },
+  "draft": "Draft",
+  "@draft": {
+    "description": "Draft"
+  },
+  "trash": "Trash",
+  "@trash": {
+    "description": "Trash"
   }
 }
